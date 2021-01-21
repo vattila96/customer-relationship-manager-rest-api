@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.rest;
+package com.attilavarga.customer.relationship.manager.rest.api.rest;
 
 public class CustomerErrorResponse {
 
